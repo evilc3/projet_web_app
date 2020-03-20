@@ -13,10 +13,8 @@ from nltk.stem import PorterStemmer,SnowballStemmer
 from sklearn.feature_extraction.text import CountVectorizer,TfidfVectorizer
 import re
 
-
-
-
-
+import nltk
+nltk.download('stopwords')
 
 list_rc_sub = [['raw material','Excipent','Qualitative for.','Quantative for.','amount','appearance','storage condition','batchsize','Stability','contamination','expiry date'],
                ['Breakdown/failure','maintenance','cleaning','calibrating','qualification'],
@@ -27,10 +25,7 @@ list_rc_sub = [['raw material','Excipent','Qualitative for.','Quantative for.','
 
 list_rc_cat = ['material/product','machine/apparatus/room','measurment','method_procedure/process','environment','human']
 
-from nltk import word_tokenize,sent_tokenize
-from nltk.corpus import stopwords
-from string import punctuation
-import re
+
 extended = ["a","a's","able","about","above","according","accordingly","across","actually","after",
                                 "afterwards","again","against","ain't","all","allow","allows","almost","alone","along",
                                 "already","also","although","always","am","among","amongst","an","and","another","any",
