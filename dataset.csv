@@ -1,0 +1,96 @@
+,Pname,Desc.,RC,CA
+0,Methocarbamol tablets 750mg.,The product was achieved out of limit against the limit mentioned in BMR.  observed value is 1.18% and mentioned BMR is 1%.,"['Procedure', 'Analysis', 'batchsize', 'environment']",calibration must be required to change range of temperature. collection of samples required.
+1,Methocarbamol tablets,QC analysis had performed the moisture analysis  of lubricated  product methacarbamol tablets using halogen moisture analysis before daily verification was performed.,"['raw material', 'raw material spec.']",moisture content to be performed again.
+2,Cetrizine oral solution,The identified stability samples were not  as per specified timeline of stability testing.,['Stability'],Immediately informe to QC Head and QA Head.
+3,methocarbamol tablets 750mg.,Hardness of product found below specified limit. that is limit specified in BMR 170N and obsrved value is 139N.,"['Procedure', 'Analysis', 'Product Spec.']",Inform to production Head and quality testig engineer.
+4,Trazadone hydrochloride liquid 50mg/5ml.,The batches TaV1KST to TAV5KST  of product were packed with artwork of primges in month of november 2015 and cause complexity with the product specification.,"['batchrecord', 'batchsize']",Notification must be given to QA of kinedex during batch release.
+5,Fluoxetine capsules 60mg,during initial capsule filling it is observed that locking length of capsule is not  within the specified limit. that is observed limit is  19.50mm and  specified limit is 18.7mm,"['Analysis', 'batchrecord', 'batchsize', 'Product Spec.']",Machine stope and inform to quality head and production head.
+6,Methocarbamol ,"To accept and release the api methocarbamol in house , received from vendor against item code RAP000042 being use for product using existing usp specification.",['unknown'],"api kept on hold , discuse the issue with CAQ and MA holder of the product ."
+7,Methocarbamol 750mg ,wrong A.R number was dispensig against mentioned procedure according to sop number wh/023.,['Procedure'],Inform all warehouse concern to follow sop. also inform to warehouse department head and QA head.
+8,Methocarbamol tablets.,during the review of halogen moisture analysis it was identified that one analysis had performed the moisture analysis of lubricated blend of product using halogen moisture analysis before daily verification.,"['Analysis', 'qualification']",Immediately inform to section and QC Head.
+9,Glycopyrronium bromide,"start of the in use study   an unknown impurity has been seen which was larger dan 0.2%. The retention time of placebo peak and impurity peak are very close together. At t=24 of stability study the peaks completely overlapped and therefore the impurity peak was not noticed. At t=12 of the stability study
+the peak was absent. therefore the impurity peak was formed after t=12. To improve the detection of this impurity, there are actions suggested for method improvement. This will be disscussed with the client.
+This is a product in development; the final shelf-life has not yet been determined; this will be done by the client. The product is not on the market, so there is no impact for the patient.
+",['Procedure'],
+10,,"inventory have discovered that we have 1 unit short in suspence of the cd sku .
+3 point check not completed correctly.human factor
+Once the missing unit had been identified by Inventory, the shortage was notified to the client. After further investigation by Inventory, they believed that the missing unit had been over picked on the  by Operator  and despatched on order . This has now been confirmed by the client and customer. The customer is going to keep the stock and as a consequence, retro order number  has now been created to adjust correct the Alloga stock holding. The Retro order has now interfaced and the short unit has been system picked and shipped. This has also been confirmed back to the client.","['storage condition', 'training']",
+11,simvastatin ,"20mg and 40mg granules for oral suspension 3 exhibit batches for manufacturing ,instruction do not held the lubricated blend for more than 15 days.while filling of 40mg is to be done although the hold time is over.",['Procedure'],
+12,simvastatin ,"material available in blocked ststus in SAP , required quantity of material will be transfered to quantity status so thta it can be used for analysis.","['raw material', 'raw material spec.']",
+13,Alimemazine tablets,"commercial launch ,compression activity to be continued without waiting for dissolution results after initial setting .",['process control'],batch will be released in market only after satisfactory evaluation and summarization of results as well as approved validation report.
+14,Excipient Zein,excipient zein to tb released by referring value for test identification polyacrylamide gel electrophoresis and limit of hexane solution matter from  vendor certificate of analysis.,[],
+15,glycopyrronium bromide ,"manufacturing activity that is compression of product glycopyrronium bromide  2mg tablets is to be carried out 
+without revising the existing batch mafufacturing record. existing compression machine speed 20 - 60 rpm
+recommended compression machine speed 20 - 50 rpm ","['qualification', 'calibrating', 'batchrecord']",used batch mmnufactured as per proposed deviation also charge control has been approved for revision of bmr .
+16,glycopyrronium bromide,quality of glycopyrronium bromide to be calculate based on  assay as is basis by hplc method and quantity is adjusted based on assay potency  calculated by hplc method for hplc assay is to be between 97% to 101%.,"['Procedure', 'raw material']",
+17,Nefopam HCL,particle size distibution failed for distribution at 0.5,"['cleaning', 'training', 'maintenance']",
+18,phenindione,"before purification dry material quantity obtained 10.60kg against the specifed output range minimum 11.30kg to maximum 14.80kg , low yeild batch of phenindione ",['Procedure'],
+19,phenindione,observed wrong entries in the batch production recor of phenindione of temperature and vacuume record sheet.,"['Breakdown/failure', 'Procedure']",
+20,sodium feredetate,"not manufactufactured on time , stability study,incubated ",['unknown'],
+21,dichlorocyclopropyl acetophenone,"reaction mass wa observed leaking from the transfer line immediately stopped the reaction mass transfer ,rectified the leakage and continued the ","['Breakdown/failure', 'cleaning', 'maintenance']",
+22,sodium feredetate,"absormal results in water content,electode sensitivity for sodium feredetate
+activate electrode with 0.1N Hydrochlric acid and stir for 15 minute.
+","['calibrating', 'training']","Training to be imparted to qc associates.
+reanalysis results"
+23,Nefopam hcl ,"nefopam hcl output quantity 37.035kg material present at warehouse with quarantine status.
+",['Quantative for.'],
+24,phenindione,samples submitted for particle size distribution analysis for inprocess sample as per product spec. ,['raw material'],
+25,SODIUM FEREDATATE ,"Sodium Feredetate , drying completed in two lots. lot I 66.66 kg & lot II 84.59 kg obtained.
+After drying proposed to mill the both Lot-I & Lot-II material through multi mill, before proceeding to blending operation as per operation no. 99 to 102. Addendum BPR will be prepared for milling operation & Cleaning SOP of Sodium Feredetate will be updated to incorporate cleaning procedure for Multimill.During unloading of material from dryer hard lumps observed in material, hence can not be sieved from 30 mesh sieve completely.
+
+",['unknown'],
+26,APQR'S,products were not manufactured in scheduled period due to priority of other products were are manufactured.,"['Procedure', 'Product Spec.']",Risk assessment should be perform for all pending APQR'S.
+27,Lymecycline 408 mg capsule,product are not compleated as per the approved schedule.,"['Procedure', 'Analysis']",Immediate action must be taken to review the product.
+28,Pyridstigmine bromide osp,"It was observed the product has  semisolid state and preserved in tight containers without desicast bags. but as per specification the material should be white crystalline , deliquescent powder and strorage condition should be out of sulight and keep in cool dry place in tight conatiners with desicast bags.","['storage condition', 'maintenance', 'raw material spec.', 'environment']",The raw material must be kept in cool dry place.
+29,Indoramine tablets,stage 48M longterm(25/60) was not performed.,"['Procedure', 'process control']",Analytical test data sheets issued to initiate analysis.
+30,Bismuth subciteate capsules,Initial reference batches was not integrated as by HPCC.,"['Procedure', 'procedure  als.', 'batchrecord']",reprocessing must be done and repeat the reprocessed result.
+31,Magnesium stearile.,Skipped addition of material code 210601 for magnesim stearile in BMR.,"['Procedure', 'raw material spec.', 'procedure  als.', 'raw material']",Inform to QA.
+32,Bismuth subcitrate capsules.,some materials are reIntegrated and recalculated during inverstigation of the stability data of product.,"['raw material', 'Product Spec.', 'raw material spec.']",the recalculated result were corrected.
+33,Pyridostigmine.,"The deviation raised to use the API Control sample of Pyridostigmine HBr without Qualification as Working Standard.The Existing Working standard (Ref No: WS-100/18-00) was exhausted.
+Hence the existing API with Ref AR No: 21RM17000199 was selected to use as Standard in the analysis with out Qualification as working Standard.
+The Usage of API is only for Stability Testing purpose only, but not involved in any Material / Product release activity.
+","['Analysis', 'Stability']",The data related to the Selected API with Ref AR No: 21RM17000199 was evaluated for its Impurity Profile by selecting the data at the time of API release and as on Current date analysis and the results are calculated.
+34,Lymecycline 408 mg Capsules.,After completion of capsule filling less yield observed i.e 96.16 % against the standard yield limit of NLT 97.50 %.,"['appearance', 'Sampling', 'calibrating', 'amount', 'Procedure']",Yield limit should be given as tentative for validation batches & should be finalized based on trend.
+35,Lymecycline 408 mg Capsules,Add New vendor from magnesium stearate from valerus speciality chemicals along with existig vendor or nitika pharmaceuticals.,"['raw material spec.', 'process control']",BMR to be revised to have yield limit between 95 to 100% at Capsulation stage and previous stage should also be given the yield limit.
+36,AQA,The method was not validated. the method suitability was questioned during initial transfer but not resolved.,"['Analysis', 'Procedure', 'Qualitative for.']",The method should be evaluated and the reintegration report to be updated.
+37,MFC,during revision of mfc it is found that the matster copy of pyridostigmine bromide is not available.,"['Procedure', 'raw material spec.', 'Product Spec.', 'raw material']",Deviation must be raised and mc to be prepared based on master BMR.
+38,RS,during batch initial analysis of rs by hplc not integrated known impurity-c peak and the  same was not identified by reviewer. ,"['raw material spec.', 'Procedure', 'procedure  als.', 'Product Spec.', 'amount']",approach QA for justification.
+39,Nefopam Hydrochloride 30 mg,"As per SOP for analysis and release of in process and finished product ,bulk tablets are released for packing if all test are complied Nefopam Hydrochloride 30 mg does not comply with the water content test.Except water 
+content all other test passed  ","['water', 'maintenance']",
+40,Nefopam Hydrochloride 30mg,"The packed finish product of Nefopam Hydrochloride 30mg 
+ dispatched to Primegen prior to microbial testing which is under analysis.]
+This deviation is proposed to save the transit time. 
+Thus, from all above data it can be concluded that the process followed for manufacturing
+process of Nefopam Hydrochloride 30 mg Film-coated Tablets is suitable to give the finished
+product with desired quality.",['unknown'],"Test for Microbial enumeration test to be performed as a
+part of release criteria for finished product"
+41, Nefopam Hydrochloride 30mg,"The proposed deviation is to release the finished packed samples ofNefopam Hydrochloride
+30mg Film-coated Tablets prior to completion of microbial study to avoid the delay in the
+dispatch of commercial batches. ",['unknown'], test for Microbial enumeration test to be performed as a part of release criteria for finished product.
+42,pre-elatinized starch,pre-elatinized starch dry binder and disintegrant nefopam hyfrochloride tablets 30mg no stock exsit with Anshul agencies and also lead time for procurment is high.Hence primegen was suggested to produce the required quality of pregelatinized starch.,"['amount', 'Quantative for.']",
+43,Nefopam Hydrochloride 30mg ," materials have been sampled as per SOP and analysis is ongoing. They have been
+tested with respect to Test for Description and identification and results are found to be within the
+specified range. All tests including description and identification test as per manufacturer's COA was found
+complies with the specification limit. However analysis is to be completed before the Final Product are been dispatched",['unknown'],"As per procedure, initiation of manufacturing activity for any product should be commenced after QC
+approval and release of all the raw materials involved in that particular product. "
+44,Nefopam Hydrochloride 30 mg,"Inspection of Coated tablets for above mentioned batches to be started lot wise prior to
+completion of complete batch coating. 
+ In order to utilize the manufacturing and packing equipments and to meet the dispatch
+schedule,if found to be complies within the specified limit coating activity will be
+initiated.
+QC analysis trend for the previous batches coated tablets of the product
+Nefopam Hydrochloride 30 mg Film-coated Tables were evaluated and found satisfactory","['spec. Als.', 'Product Spec.', 'procedure  als.']",Inspection of Coated tablets should be commenced after completion of all lots coating 
+45,Nefopam hydrochloride 30mg ,"We propose to dispatch Nefopam hydrochloride 30mg film coated tablet,  to be
+released for dispatch prior to completion of microbial limit test of finished packed sample.
+Chemical analysis for the above Nefopam hydrochloride 30mg film coated tablet  has
+been completed and found satisfactory. Microbial analysis for the same is under progress as per below
+details previous batches ofNefopam hydrochloride 30mg film coated tablet for Microbial enumeration test were evaluated ·and found satisfactory ","['Analysis', 'unknown']",
+46,magnesium stearate,"magnesium stearte was not analyzed as per the correct method of analysis as  per the conect method of analysis As per method of analysis, PSD should be performed  by Coulter counter method bud Malvern Masterizer  was followed incorrectly for the estination of PSD.","['Analysis', 'Procedure', 'training']",Availability of coulter instruments was checked with other external labs. An equivalency data was evaluated between coulter instrument and analysis done on Malven.
+47,Neofpam Hydrochloride 30 mg,while performance of sealing temperature challenge study as per the packing validation study is blister packing machine for the above batch the sealing of blister was found to be improper due to sticking of forming foil at optimum forming temperature at 130 degress ,"['Breakdown/failure', 'calibrating']",the blister packing has been stopped and the observed discrepancy has been initimated to all relevant
+48,liothyimine sodium,"quantity available for the above mentioned batches is less , planned deviation is colectively decided by FD,
+manufacturing and quality teams to proceed with reduced sample quality so that balance quantity available manufacturing  ","['Quantative for.', 'amount']",
+49,liothyronine  soduim,"IPQA in process challenge test for camera system failed during alu - alu blister packing of liothyronine  soduim 20 mg tablets 
+camera system was not working properly due to manufacturing of camera system
+packing activity stopped and affcted quarantined and kept on hold liothyronine  soduim 20 mg tablets ","['Breakdown/failure', 'qualification']",
+50,liothyronine sodium ,analysis of drug product liothyronine sodium  was not completed within  the specified time of 7 days due to the urgency for analysis of other drug products ,['unknown'],
+51,Diethystibestrol,During the compiltion of hold time report  it was observed that the dissolution and  hardness test was  not performed at 30 day hold time as per approved protocol,['training'],
