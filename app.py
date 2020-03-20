@@ -3,21 +3,8 @@ import pandas as pd
 import numpy as np 
 from string import punctuation
 import pickle as pk
-
-
-
-
-#preprocessing libraries
-
-from nltk import word_tokenize,sent_tokenize
-from nltk.stem import PorterStemmer,SnowballStemmer
 from sklearn.feature_extraction.text import CountVectorizer,TfidfVectorizer
 import re
-
-
-#import nltk
-
-#nltk.download('stopwords')
 
 
 
@@ -282,7 +269,7 @@ def preprocessing(x):
     input = re.sub('[“’\']','',input)  
     tmp = " "
     
-    for i in word_tokenize(input):
+    for i in input.split(" "):
         
         if i not in word_punct:
             tmp += i.lower() + " ";
