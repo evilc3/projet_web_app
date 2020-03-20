@@ -13,8 +13,7 @@ from nltk.stem import PorterStemmer,SnowballStemmer
 from sklearn.feature_extraction.text import CountVectorizer,TfidfVectorizer
 import re
 
-import nltk
-nltk.download('stopwords')
+
 
 list_rc_sub = [['raw material','Excipent','Qualitative for.','Quantative for.','amount','appearance','storage condition','batchsize','Stability','contamination','expiry date'],
                ['Breakdown/failure','maintenance','cleaning','calibrating','qualification'],
